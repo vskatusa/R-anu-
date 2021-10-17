@@ -1,0 +1,47 @@
+Municipality of residence,Total Cases (may count people more than once),"Rate of COVID-19 cases per 100,000 population",Total hospitalizations,"Rate of hospitalizations per 100,000 population",Total deaths,"Rate of deaths per 100,000 population",Total number of people who have completed primary vaccine series,"Rate of people who have completed primary vaccine series per 100,000 population"
+Barrington,1590,9828,89,550,17,105,12413,76728
+Bristol,2819,12679,138,621,77,346,13442,60457
+Burrillville,2345,14253,98,596,71,432,8982,54592
+Central Falls,4815,24843,268,1383,27,139,11957,61691
+Charlestown,733,9422,35,450,<5,--,5219,67082
+Coventry,4942,14294,295,853,103,298,22985,66479
+Cranston,14090,17353,841,1036,159,196,52389,64522
+Cumberland,4940,14256,272,785,86,248,22493,64911
+East Greenwich,2055,15719,97,742,29,222,10334,79048
+East Providence,6755,14236,495,1043,207,436,29653,62494
+Exeter,688,10145,39,575,7,103,4498,66323
+Foster,604,12881,26,554,6,128,2620,55875
+Glocester,1058,10515,39,388,7,70,5900,58636
+Hopkinton,813,10023,48,592,<5,--,5158,63593
+Jamestown,410,7460,11,200,<5,--,4158,75655
+Johnston,5478,18738,371,1269,166,568,18530,63383
+Lincoln,3156,14581,209,966,76,351,14450,66762
+Little Compton,229,6534,<5,--,<5,--,1961,55949
+Middletown,1665,10356,77,479,11,68,10640,66177
+Narragansett,1994,12823,50,322,9,58,9713,62463
+New Shoreham,97,11729,0,0,0,0,1113,134583
+Newport,2791,11271,120,485,14,57,13515,54580
+North Kingstown,3129,11940,161,614,83,317,19639,74938
+North Providence,5704,17573,396,1220,129,397,20625,63542
+North Smithfield,1696,13734,109,883,65,526,7958,64442
+Pawtucket,13085,18235,799,1113,134,187,41264,57506
+Portsmouth,1612,9255,45,258,9,52,11063,63515
+Providence,35736,19916,2515,1402,556,310,104783,58396
+Richmond,626,8209,31,407,<5,--,4996,65513
+Scituate,1451,13685,66,622,6,57,6840,64510
+Smithfield,3982,18410,241,1114,153,707,13614,62940
+South Kingstown,3147,10239,120,390,38,124,18476,60114
+Tiverton,1697,10730,22,139,15,95,7798,49305
+Warren,1448,13806,92,877,55,524,6850,65313
+Warwick,10095,12451,637,786,194,239,55319,68229
+West Greenwich,694,11232,23,372,<5,--,4052,65577
+West Warwick,4095,14143,231,798,57,197,18292,63174
+Westerly,2374,10493,139,614,36,159,13244,58540
+Woonsocket,6771,16300,489,1177,227,546,20865,50230
+Pending further information,1274,--,63,--,0,--,2690,--
+TOTAL,162683,15397,9799,927,2843,269,660491,62510
+"Source: Rhode Island Department of Health; Rhode Island Child and Adult Immunization Registry; US Census Bureau, 5-Year Estimates",,,,,,,,
+"Notes: COVID-19 cases, COVID-19 associated hospitalizations, COVID-19 associated deaths, and vaccination data exclude out-of-state residents. For cases, a count and rate of zero indicates either zero cases or fewer than five cases in that municipality. For hositalizations and deaths, counts of less than five are shown as <5. Counts of less than five are suppressed in accordance with RIDOH's Small Numbers Policy.",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Last updated:,10/6/2021,,,,,,,
